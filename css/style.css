@@ -1,0 +1,26 @@
+i{
+	font-size: 20px;
+}
+.vh-80{
+	min-height: 80vh;
+}
+.banner-content{}
+.banner-content span{
+	width: 0px;
+	height: 5px;
+	display: block;
+	margin: 0 auto;
+	transition: all 0.4s;
+}
+.banner-content:hover span{
+	width: 150px;
+}
+footer .container p{
+	transition: all 0.4s;
+}
+footer .container p:hover{
+	color: #DC3545;
+}
+.album-section{
+	background-color: #e9ecefc9;
+}
